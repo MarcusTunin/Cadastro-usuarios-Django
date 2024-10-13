@@ -12,7 +12,7 @@ Tecnologias Utilizadas
 
    - Django: Framework web utilizado para desenvolver o backend.
    - HTML/CSS: Utilizados para criar a interface do usuário.
-   - SQLite**: Banco de dados padrão para armazenar os dados dos usuários.
+   - SQLite: Banco de dados padrão para armazenar os dados dos usuários.
 
 Como Executar o Projeto
 
